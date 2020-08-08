@@ -1,12 +1,12 @@
 ---
 author: aki
-title: "\n\t\t\t\tGoogle SpreadsheetとEXCELを連携させる意外な方法\t\t"
+title: "Google SpreadsheetとEXCELを連携させる意外な方法"
 slug: google-spreadsheet-linkto-excel
 id: 6652
 date: '2013-01-19 17:39:16'
 layout: post
-categories:
-  - TIPS
+# categories:
+#  - TIPS
 tags:
   - EXCEL
   - Google Apps Script
