@@ -4,9 +4,9 @@ languages: ["en", "ja"]
 google_analytics: UA-168023643-1
 
 source: .
-layouts_dir: _layouts
-data_dir: _data # なぜかこのディレクトリをいったん指定しないと _posts が動かなかった
-includes_dir: _includes
+# layouts_dir: _layouts
+# data_dir: _data # なぜかこのディレクトリをいったん指定しないと _posts が動かなかった
+# includes_dir: _includes
 # http://jekyllrb-ja.github.io/docs/permalinks/
 # permalink: pretty #拡張子を外す
 # permalink: /:categories/:year/:month/:day/:title:output_ext
