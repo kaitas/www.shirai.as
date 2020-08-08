@@ -1,1 +1,4 @@
 theme: jekyll-theme-leap-day
+title: my web
+languages: ["en", "ja"]
+google_analytics: UA-168023643-1
