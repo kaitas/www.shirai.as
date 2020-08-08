@@ -7,7 +7,10 @@ source: .
 layouts_dir: _layouts
 data_dir: _data # なぜかこのディレクトリをいったん指定しないと _posts が動かなかった
 includes_dir: _includes
-permalink: pretty #拡張子を外す
+# http://jekyllrb-ja.github.io/docs/permalinks/
+# permalink: pretty #拡張子を外す
+# permalink: /:categories/:year/:month/:day/:title:output_ext
+permalink: /:year/:month/:title
 show_excerpts: true # 投稿の中身を展開する
 paginate: 5
 paginate_path: "/blog/page:num/"
