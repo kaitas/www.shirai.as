@@ -1,0 +1,12 @@
+---
+---
+@import "{{ site.theme }}";
+#mylogo {
+    position:absolute;
+    height: 32px;
+    width: 32px;
+    right:7px;
+    top:7px;
+    display: block;
+    background: url(../images/shirai32x32.png);
+  }
